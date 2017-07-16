@@ -9,6 +9,13 @@ git remote -v => show which repository you are connected.
 git push -u origin master
 
 
+
+Next time to commit the file
+git add *.*
+git commit -m "commit message"
+git push
+
+
 to checkout the project.
 git clone https://github.com/angular/quickstart Demo 
 
